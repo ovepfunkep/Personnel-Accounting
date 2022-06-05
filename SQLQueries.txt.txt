@@ -1,0 +1,21 @@
+Create table Staff (
+	Id int not null primary key identity,
+	FullName nvarchar(max),
+	BirthDate date,
+	Gender varchar(1)
+)
+
+create table JobPositions (
+	Id int not null primary key identity,
+	_name nvarchar(max),
+	AddInfoName nvarchar(max)
+)
+
+create table StaffPositions (
+	Id int not null primary key identity,
+	StaffId int,
+	JobPositionsId int,
+	AddInfo nvarchar(max),
+	foreign key (StaffId) references Staff(Id),
+	foreign key (JobPositionsId) references JobPositions(Id)
+)
