@@ -1,0 +1,37 @@
+E:\Deeplay\Personnel Accounting WF\Personnel Accounting WF\bin\Debug\Personnel Accounting WF.exe.config
+E:\Deeplay\Personnel Accounting WF\Personnel Accounting WF\bin\Debug\Personnel Accounting WF.exe
+E:\Deeplay\Personnel Accounting WF\Personnel Accounting WF\bin\Debug\Personnel Accounting WF.pdb
+E:\Deeplay\Personnel Accounting WF\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.csproj.AssemblyReference.cache
+E:\Deeplay\Personnel Accounting WF\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.csproj.SuggestedBindingRedirects.cache
+E:\Deeplay\Personnel Accounting WF\Personnel Accounting WF\obj\Debug\Personnel_Accounting_WF.FormMain.resources
+E:\Deeplay\Personnel Accounting WF\Personnel Accounting WF\obj\Debug\Personnel_Accounting_WF.Properties.Resources.resources
+E:\Deeplay\Personnel Accounting WF\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.csproj.GenerateResource.cache
+E:\Deeplay\Personnel Accounting WF\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.csproj.CoreCompileInputs.cache
+E:\Deeplay\Personnel Accounting WF\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.exe
+E:\Deeplay\Personnel Accounting WF\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.pdb
+E:\Deeplay\Personnel Accounting WF - Copy\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.csproj.AssemblyReference.cache
+E:\Deeplay\Personnel Accounting WF - Copy\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.csproj.SuggestedBindingRedirects.cache
+E:\Deeplay\Personnel Accounting WF - Copy\Personnel Accounting WF\obj\Debug\Personnel_Accounting_WF.FormMain.resources
+E:\Deeplay\Personnel Accounting WF - Copy\Personnel Accounting WF\obj\Debug\Personnel_Accounting_WF.Properties.Resources.resources
+E:\Deeplay\Personnel Accounting WF - Copy\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.csproj.GenerateResource.cache
+E:\Deeplay\Personnel Accounting WF - Copy\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.csproj.CoreCompileInputs.cache
+E:\Deeplay\Personnel Accounting WF - Copy\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.exe
+E:\Deeplay\Personnel Accounting WF - Copy\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.pdb
+E:\Deeplay\Personnel Accounting WF - Copy\Personnel Accounting WF\bin\Debug\Personnel Accounting WF.exe.config
+E:\Deeplay\Personnel Accounting WF - Copy\Personnel Accounting WF\bin\Debug\Personnel Accounting WF.exe
+E:\Deeplay\Personnel Accounting WF - Copy\Personnel Accounting WF\bin\Debug\Personnel Accounting WF.pdb
+E:\Deeplay\Personnel Accounting\Personnel Accounting WF\bin\Debug\Personnel Accounting WF.exe.config
+E:\Deeplay\Personnel Accounting\Personnel Accounting WF\bin\Debug\Personnel Accounting WF.exe.manifest
+E:\Deeplay\Personnel Accounting\Personnel Accounting WF\bin\Debug\Personnel Accounting WF.application
+E:\Deeplay\Personnel Accounting\Personnel Accounting WF\bin\Debug\Personnel Accounting WF.exe
+E:\Deeplay\Personnel Accounting\Personnel Accounting WF\bin\Debug\Personnel Accounting WF.pdb
+E:\Deeplay\Personnel Accounting\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.csproj.AssemblyReference.cache
+E:\Deeplay\Personnel Accounting\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.csproj.SuggestedBindingRedirects.cache
+E:\Deeplay\Personnel Accounting\Personnel Accounting WF\obj\Debug\Personnel_Accounting_WF.FormMain.resources
+E:\Deeplay\Personnel Accounting\Personnel Accounting WF\obj\Debug\Personnel_Accounting_WF.Properties.Resources.resources
+E:\Deeplay\Personnel Accounting\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.csproj.GenerateResource.cache
+E:\Deeplay\Personnel Accounting\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.csproj.CoreCompileInputs.cache
+E:\Deeplay\Personnel Accounting\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.exe.manifest
+E:\Deeplay\Personnel Accounting\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.application
+E:\Deeplay\Personnel Accounting\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.exe
+E:\Deeplay\Personnel Accounting\Personnel Accounting WF\obj\Debug\Personnel Accounting WF.pdb
